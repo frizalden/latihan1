@@ -1,2 +1,4 @@
 # latihan1
-belajar menggunakan framework laravel
+
+belajar menggunakan  node js 
+belajar menggunakan adobe photoshop
